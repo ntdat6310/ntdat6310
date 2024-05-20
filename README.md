@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for an internship position in Ho Chi Minh city<br>🌱 I’m currently developing my Frontend skills<br>👯 I’m looking to collaborate on React projects
+🔭 I’m currently looking for an internship position in Ho Chi Minh city<br>🌱 I’m currently developing my Frontend skills
 
 
 # 💻 Tech Stack:
